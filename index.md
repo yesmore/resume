@@ -1,8 +1,8 @@
 ### 熙的简历
 
-- 性别：男                                             年龄：21   
-- 电话：+86 13689662535                 邮箱：2421662954@qq.com
-- 求职岗位：**前端开发工程师**              在线简历：https://yesmore.cc/resume/
+- 性别：男                                            年龄：21   
+- 电话：+86 13689662535                邮箱：2421662954@qq.com
+- 求职岗位：**前端开发工程师**             在线简历：https://yesmore.cc/resume/
 - 个人博客：https://yesmore.cc       Github：https://github.com/yesmore
 
 ### 教育背景
