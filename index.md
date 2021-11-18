@@ -38,7 +38,7 @@
 - **项目概述**：技术栈采用 **uni-app**、**Express**、**Socket.IO**、**MongoDB** 开发的**实时聊天app**；
 - **个人职责**：根据设计稿完成 UI 前端布局；设计用户模型，消息模型等，编写Api并制作文档；
 - **项目难点**：**首页排序算法**，采用 **Socket.IO** + **冒泡排序** 实现类似QQ首页最新消息实时刷新并排序功能；**搜索框防抖**：为了节约服务器性能，防止页面卡顿，必须使用防抖限制请求频率；
-- **项目成果**：在 [Github](https://github.com/yesmore/italk-uniapp) 开源并获得 <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg" alt="star"/>；[线上项目](http://italk.aoau.top/)**已注册用户**近**100**人。
+- **项目成果**：在 [Github](https://github.com/yesmore/italk-uniapp) 开源并获得 <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg" alt="star"/>；[线上项目](http://italk.aoau.top/)已注册用户过**100**人。
 
 ### 工作经验
 
