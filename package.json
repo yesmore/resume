@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "omg"
+  },
+  "repository": "git@github.com:yesmore/resume.git",
+  "author": "song <3224266014@qq.com>",
+  "license": "MIT"
+}
