@@ -1,15 +1,17 @@
-### 熙的简历<img width='130' style='float:right;' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/avatar.png'>
+### 基本资料
 
-- 性别：男                                          年龄：21
-- 电话：+86 13689662535              邮箱：3224266014@qq.com
-- 求职岗位：**前端开发工程师**           在线简历：https://yesmore.cc/resume/
-- 个人博客：https://yesmore.cc     Github：https://github.com/yesmore
+<div style='border-bottom: 1px dashed #666666'></div>
+
+- 姓名：xxxxxx                                 求职意向：**前端开发工程师**
+- 性别：男                                         年龄：22
+- 电话：+86 18788936079             邮箱：songsonghhhh@gmail.com  
+- 个人博客：https://yesmore.cc    Github：https://github.com/yesmore
 
 ### 教育背景
 
 <div style='border-bottom: 1px dashed #666666'></div>
 
-- 成都信息工程大学 · 通信工程 · 本科       2019.9 ~ 至今
+- 成都信息工程大学 · 通信工程 · 本科       2019.9 ~ 2023应届生
 
 ### 专业技能
 
@@ -17,13 +19,12 @@
 
 ##### 基本技能
 
-- **H5**技术：掌握 **DivCSS** 布局、资源预加载、CSS 动画，原生 JavaScript；
-- **移动端**技术：掌握浏览器兼容性处理，**px**、**em**、**rem** 使用场景，掌握预处理器 **Less**、**Sass**，以及通过**媒体查询**、**Flex**编写自适应网站；
-- **Vue.js**框架技术：掌握前端渐进式框架 **Vue.js** 全家桶，如 Vuex、Vue-router、Pinia、Nuxtjs(SSR)，以及 VuePress 搭建静态站点；
-- **小程序**技术：掌握原生微信小程序、uni-app 开发；
-- **前后端分离**技术：掌握 **Axios**、socket.io(websocket) 前后端数据交互技术，有使用 **Nodejs** 开发网站后台经验，如流行的 Express、NestJS、Eggjs 后端框架，结合数据库(MongoDB、MySQL) 开发后端 Api 实现与前端联调；
-- **工程化与前端模块化**技术：**Webpack**，Vite，CommonJS/CMD/AMD/ES6，原生 JS 模块化，Vue 组件化；掌握代码托管工具 **Git** 管理项目，掌握包管理器 **npm**、**yarn** 使用，用 Nodejs 开发[脚手架](https://github.com/der-cli/der-cli)工具实现 Git Flow 流程，具备发布 npm 包经验；
-- 其他方面，具备 **Element UI**、Vuetify、Vant、AntD 等流行 Ui 库的开发经验，有模仿 ElementPlus 实现自己的 [Vue3 组件库](https://yesmore.cc/Different-UI/) 开发经验；喜欢逛 Github，并使用 hexo 搭建了一个自己的[博客](https://yesmore.cc/)；尝试过 Serverless 技术如 Vercel 开发后台应用；有 Electron 开发桌面端应用经验。
+- **H5**：熟悉 **DivCSS** 布局、CSS 动画，原生 JavaScript开发；
+- **移动端**：掌握浏览器兼容性处理，**px**、**em**、**rem** 使用场景，掌握预处理器 **Less**、**Sass**，以及通过**媒体查询**、**Flex**编写自适应网站；
+- **框架**：熟悉前端渐进式框架 **Vue.js** 全家桶，掌握原生微信小程序、uni-app 开发；了解 React 框架开发；
+- **前后端分离**：掌握 **Axios**、socket.io(websocket) 前后端数据交互技术，熟悉 **Nodejs** 开发网站接口。
+- **工程化与前端模块化**：掌握**Webpack**，Vite，了解CommonJS/CMD/AMD/ES6的区别；掌握代码托管工具 **Git** 管理项目，掌握包管理器 **npm**、**yarn** 使用。
+- **UI库**：熟悉使用 **Element UI**、Vuetify、Vant、AntD 等流行 Ui 库开发网站。
 
 ##### 其他技能
 
@@ -48,5 +49,11 @@
 - **技术栈**：采用原生 **Nodejs** 编写、**Lerna** 工程管理工具开发的单仓库多包项目。
 - **完成模块**：**① 命令注册模块**(通过多进程结合 Commander 开源库实现)；**② 初始化项目模块**(自动更新、拉取项目模板，生成本地缓存，通过 Package 开源库实现)；**③GitFlow 模块**(自动初始化本地/远程仓库、自动提交、拉取、合并冲突、生成分支、发布 Tag，通过 SimpleGit 开源库实现)；**④ 后台模块**（存储项目模板信息，通过 Eggjs 实现）；
 - **项目难点**：项目整体架构实现；Git Flow 流程架构设计。
-- **项目成果**：[Github](https://github.com/der-cli/der-cli) 开源并获得 <img src="https://img.shields.io/github/stars/der-cli/der-cli.svg?logo=github" alt="star"/> ;发布在 [npm](https://www.npmjs.com/package/@der-cli/core) 上，下载量: <img src="https://img.shields.io/npm/dt/@der-cli/core?logo=npm">；[在线预览](https://der-cli.vercel.app/).
+- **项目成果**：[Github](https://github.com/der-cli/der-cli) 开源并获得 <img src="https://img.shields.io/github/stars/der-cli/der-cli.svg?logo=github" alt="star"/> ;发布在 [npm](https://www.npmjs.com/package/@der-cli/core) 上，下载量: <img src="https://img.shields.io/npm/dt/@der-cli/core?logo=npm">；[可预览](https://der-cli.vercel.app/).
+
+### 自我评价
+
+<div style='border-bottom: 1px dashed #666666'></div>
+
+自学两年前端，从慢慢独自摸索到为他人答疑解惑，对前端技术不断深入和扩展学习，让我保持着对前端的热情，比如平时喜欢逛 Github，用 hexo 搭建了自己的[博客](https://yesmore.cc/)；追逐流行技术 比如基于 Serverless 的 Vercel 平台开发托管后台应用；也有着 Electron 开发桌面端应用经验；用 Nodejs 开发[脚手架](https://github.com/der-cli/der-cli)工具；开发自己的组件库等。
 
