@@ -1,29 +1,33 @@
-### 基本资料
+### 熙的简历
+
+#####  求职意向：web前端开发工程师
+
 
 <div style='border-bottom: 1px dashed #666666'></div>
 
-- 姓名：xxxxxx                                 求职意向：**前端开发工程师**
-- 性别：男                                         年龄：22
+### 个人信息
+
+- 性别：男                                         年龄：22                                 
 - 电话：+86 18788936079             邮箱：songsonghhhh@gmail.com  
 - 个人博客：https://yesmore.cc    Github：https://github.com/yesmore
 
-### 教育背景
-
 <div style='border-bottom: 1px dashed #666666'></div>
+
+### 教育背景
 
 - 成都信息工程大学 · 通信工程 · 本科       2019.9 ~ 2023应届生
 
-### 专业技能
-
 <div style='border-bottom: 1px dashed #666666'></div>
+
+### 专业技能
 
 ##### 基本技能
 
-- **H5**：熟悉 **DivCSS** 布局、CSS 动画，原生 JavaScript开发；
-- **移动端**：掌握浏览器兼容性处理，**px**、**em**、**rem** 使用场景，掌握预处理器 **Less**、**Sass**，以及通过**媒体查询**、**Flex**编写自适应网站；
-- **框架**：熟悉前端渐进式框架 **Vue.js** 全家桶，掌握原生微信小程序、uni-app 开发；了解 React 框架开发；
-- **前后端分离**：掌握 **Axios**、socket.io(websocket) 前后端数据交互技术，熟悉 **Nodejs** 开发网站接口。
-- **工程化与前端模块化**：掌握**Webpack**，Vite，了解CommonJS/CMD/AMD/ES6的区别；掌握代码托管工具 **Git** 管理项目，掌握包管理器 **npm**、**yarn** 使用。
+- **H5**：熟悉 **DivCSS** 布局、CSS 动画，掌握css预处理器 **Less**、**Sass**，原生 JavaScript开发（DOM、BOM）；
+- **移动端**：熟悉 **px**、**em**、**rem** 特性及使用场景，以及通过**媒体查询**、**Flex**编写自适应网站；
+- **框架**：熟悉前端渐进式框架 **Vue.js** **全家桶**，掌握**小程序**（uni-app、Taro）开发；了解 React 框架开发；
+- **前后端分离**：熟悉 **Axios**、socket.io(websocket) 前后端数据交互技术，熟悉 **Nodejs** 开发网站接口和客户端工具，如脚手架开发。
+- **工程化与前端模块化**：掌握 **Webpack**、Vite 特性，了解 CommonJS/CMD/AMD/ES6 的区别；掌握代码托管工具 **Git** 管理项目，掌握包管理器 **npm**、**yarn** 使用。
 - **UI库**：熟悉使用 **Element UI**、Vuetify、Vant、AntD 等流行 Ui 库开发网站。
 
 ##### 其他技能
@@ -31,11 +35,11 @@
 - 通过英语六级：能流畅阅读英文文档
 - 志愿精神：两年社区志愿者经验
 
-### 个人项目
-
 <div style='border-bottom: 1px dashed #666666'></div>
 
-##### 一、[iTalk 社交聊天 App](https://github.com/yesmore/italk-uniapp)<span style='float:right'>2021/05~2021/06</span>
+### 个人项目
+
+##### 一、[iTalk 社交聊天 App](http://italk.aoau.top/)<span style='float:right'>2021/05~2021/06</span>
 
 - **项目概述**：个人开发的**实时聊天 WebApp**；
 - **技术栈**：**uni-app**、**Express**、**Socket.IO**、**MongoDB**
@@ -51,9 +55,9 @@
 - **项目难点**：项目整体架构实现；Git Flow 流程架构设计。
 - **项目成果**：[Github](https://github.com/der-cli/der-cli) 开源并获得 <img src="https://img.shields.io/github/stars/der-cli/der-cli.svg?logo=github" alt="star"/> ;发布在 [npm](https://www.npmjs.com/package/@der-cli/core) 上，下载量: <img src="https://img.shields.io/npm/dt/@der-cli/core?logo=npm">；[可预览](https://der-cli.vercel.app/).
 
-### 自我评价
-
 <div style='border-bottom: 1px dashed #666666'></div>
 
-自学两年前端，从慢慢独自摸索到为他人答疑解惑，对前端技术不断深入和扩展学习，让我保持着对前端的热情，比如平时喜欢逛 Github，用 hexo 搭建了自己的[博客](https://yesmore.cc/)；追逐流行技术 比如基于 Serverless 的 Vercel 平台开发托管后台应用；也有着 Electron 开发桌面端应用经验；用 Nodejs 开发[脚手架](https://github.com/der-cli/der-cli)工具；开发自己的组件库等。
+### 自我评价
+
+自学两年前端，从慢慢独自摸索到为他人答疑解惑，对前端技术不断深入和扩展学习，让我保持着对前端的热情，比如平时喜欢逛 Github，用 hexo 搭建了自己的 [博客](https://yesmore.cc/)；喜欢探索新技术，如用 Serverless 平台托管应用；也有着 Electron 开发桌面端应用、用 Nodejs 开发 [脚手架](https://der-cli.vercel.app/) 工具和开发 [组件库](https://yesmore.cc/Different-UI/) 的经验。除此之外也与志同道合的伙伴建立 [开发团队](https://github.com/Futaba-KND)，锻炼团队协作能力。
 
