@@ -1,4 +1,4 @@
-### 熙的简历
+### 宋俊熙的简历
 
 #####  求职意向：web前端开发工程师
 
@@ -43,7 +43,7 @@
 
 ### 个人项目
 
-##### 一、[iTalk 社交 App](http://italk.aoau.top/)<span style='float:right'>2021/05~2021/06</span>
+##### 一、[iTalk 社交 App](http://italk.aoau.top/)（移动端）<span style='float:right'>2021/05~2021/06</span>
 
 **项目概述**：独立开发的**实时聊天 WebApp**；
 
@@ -55,7 +55,7 @@
 
 **项目成果**：在 [Github](https://github.com/yesmore/italk-uniapp) 开源并获得 <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg?logo=github" alt="star"/>；[线上项目](http://italk.aoau.top/) 已注册用户超**200**人。(用户名: hr，密码: 123456)
 
-##### 二、[开源接口管理平台 OSAPI](http://osapi.aoau.top/) <span style='float:right'>2022/02~2022/03</span>
+##### 二、[开源接口管理平台 OSAPI](http://osapi.aoau.top/) （PC端）<span style='float:right'>2022/02~2022/03</span>
 
 **项目概述**：开源Api管理平台（整理、集合并以接口形式共享互联网上公开的免费接口）；
 
@@ -67,7 +67,7 @@
 
 **项目成果**：在 [Github](https://github.com/yesmore/OSAPI) 开源并获得 <img src="https://img.shields.io/github/stars/yesmore/osapi.svg?logo=github" alt="star"/>。(登陆账号: admin，密码: 123456)
 
-##### 三、[Der-Cli 脚手架工具](https://der-cli.vercel.app/) <span style='float:right'>2022/02~2022/03</span>
+##### 三、[Der-Cli 脚手架工具](https://der-cli.vercel.app/) （客户端）<span style='float:right'>2022/02~2022/03</span>
 
 **项目概述**：一个客户端脚手架工具，解决从项目**初始化**到**发布远程平台**的闭环流程需求。
 
